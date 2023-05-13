@@ -26,8 +26,28 @@ class Conventer():
             return IX 
         if self_chislo = 10:
             return X
+        if self_chislo = 11:
+            return XI
+        if self_chislo = 12:
+            return XII
+        if self_chislo = 13:
+            return XIII
+        if self_chislo = 14:
+            return XIV
+        if self_chislo = 15:
+            return XV
+        if self_chislo = 16:
+            return XVI
+        if self_chislo = 17:
+            return XVII
+        if self_chislo = 18:
+            return XVIII
+        if self_chislo = 19:
+            return XIX
+        if self_chislo = 20:
+            return XX
         else:
-            return "число больше 10"
+            return "число больше 20"
     def Valyta():
         print("Ваша валута рубли")
         a = self_valyta * 0,25
